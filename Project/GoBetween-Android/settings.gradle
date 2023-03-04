@@ -1,0 +1,2 @@
+rootProject.name = "Go Between"
+include ':app'
